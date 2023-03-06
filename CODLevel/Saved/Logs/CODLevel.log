@@ -1183,3 +1183,194 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.03.06-15.20.00:354][957]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/olive/Box_E8787115_Auto2
 [2023.03.06-15.20.00:354][957]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Saved/Box_E8787115_Auto2073D8A6848236160F2E948B0EB9550B3.tmp' to '../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Saved/Autosaves/Game/_GENERATED/olive/Box_E8787115_Auto2.uasset'
 [2023.03.06-15.20.00:354][957]LogFileHelpers: Auto-saving content packages took 0.050
+[2023.03.06-16.03.14:487][448]Cmd: TRANSACTION UNDO
+[2023.03.06-16.03.14:487][448]LogEditorTransaction: Undo Deform Mesh
+[2023.03.06-16.03.26:499][691]LogStaticMesh: Display: Building static mesh Stairs_4A396759...
+[2023.03.06-16.03.26:499][691]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/olive/Stairs_4A396759.Stairs_4A396759
+[2023.03.06-16.03.42:243][528]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.06-16.04.10:943][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OlliesLevel" FILE="../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Content/OlliesLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.06-16.04.10:948][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.03.06-16.04.10:951][771]LogSavePackage: Moving output files for package: /Game/OlliesLevel
+[2023.03.06-16.04.10:952][771]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Saved/OlliesLevelA3F1C2244EE58AAEF76C02AA49BAF654.tmp' to '../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Content/OlliesLevel.umap'
+[2023.03.06-16.04.10:974][771]AssetCheck: New page: Asset Save: OlliesLevel
+[2023.03.06-16.04.10:974][771]LogContentValidation: Display: Validating World /Game/OlliesLevel.OlliesLevel
+[2023.03.06-16.05.01:486][701]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.06-16.05.58:996][420]LogStaticMesh: Display: Building static mesh Stairs_4A396759...
+[2023.03.06-16.05.58:996][420]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/olive/Stairs_4A396759.Stairs_4A396759
+[2023.03.06-16.06.08:739][572]Cmd: TRANSACTION UNDO
+[2023.03.06-16.06.08:739][572]LogEditorTransaction: Undo Move Elements
+[2023.03.06-16.06.09:180][580]Cmd: TRANSACTION UNDO
+[2023.03.06-16.06.09:180][580]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.06-16.06.09:557][605]Cmd: TRANSACTION UNDO
+[2023.03.06-16.06.09:557][605]LogEditorTransaction: Undo Deform Mesh
+[2023.03.06-16.06.24:556][270]LogStaticMesh: Display: Building static mesh Stairs_4A396759...
+[2023.03.06-16.06.24:556][270]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/olive/Stairs_4A396759.Stairs_4A396759
+[2023.03.06-16.06.43:387][489]Cmd: TRANSACTION UNDO
+[2023.03.06-16.06.43:388][489]LogEditorTransaction: Undo Move Elements
+[2023.03.06-16.07.22:993][848]LogStaticMesh: Display: Building static mesh Stairs_4A396759...
+[2023.03.06-16.07.22:993][848]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/olive/Stairs_4A396759.Stairs_4A396759
+[2023.03.06-16.07.35:335][262]LogStaticMesh: Display: Building static mesh Stairs_4A396759...
+[2023.03.06-16.07.35:335][262]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/olive/Stairs_4A396759.Stairs_4A396759
+[2023.03.06-16.08.17:652][  3]LogStaticMesh: Display: Building static mesh Merge_DAA53F84...
+[2023.03.06-16.08.17:652][  3]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/olive/Merge_DAA53F84.Merge_DAA53F84
+[2023.03.06-16.08.18:274][ 70]LogEditorViewport: Clicking Background
+[2023.03.06-16.11.14:617][319]LogStaticMesh: Display: Building static mesh Box_9CB7C9A2...
+[2023.03.06-16.11.14:617][319]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/olive/Box_9CB7C9A2.Box_9CB7C9A2
+[2023.03.06-16.11.47:415][577]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.06-16.11.58:510][886]Cmd: TRANSACTION UNDO
+[2023.03.06-16.11.58:510][886]LogEditorTransaction: Undo Move Elements
+[2023.03.06-16.12.16:327][911]LogDerivedDataCache: C:/Users/olive/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.089 and deleted 0 file(s) with total size 0 MiB.
+[2023.03.06-16.12.16:578][941]Cmd: DUPLICATE
+[2023.03.06-16.12.16:578][941]Cmd: ACTOR DUPLICATE
+[2023.03.06-16.12.52:752][ 26]Cmd: TRANSACTION UNDO
+[2023.03.06-16.12.52:752][ 26]LogEditorTransaction: Undo Move Elements
+[2023.03.06-16.13.28:607][976]LogStaticMesh: Display: Building static mesh Boolean_BFBCA6DA...
+[2023.03.06-16.13.28:607][976]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/olive/Boolean_BFBCA6DA.Boolean_BFBCA6DA
+[2023.03.06-16.13.49:508][392]Cmd: MODE GRID=0
+[2023.03.06-16.13.50:399][486]Cmd: MODE GRID=1
+[2023.03.06-16.14.16:039][491]Cmd: TRANSACTION UNDO
+[2023.03.06-16.14.16:039][491]LogEditorTransaction: Undo Move Elements
+[2023.03.06-16.15.08:080][926]LogViewport: Scene viewport resized to 1328x580, mode Windowed.
+[2023.03.06-16.15.46:979][948]LogViewport: Scene viewport resized to 1526x580, mode Windowed.
+[2023.03.06-16.16.01:771][633]Cmd: TRANSACTION UNDO
+[2023.03.06-16.16.01:771][633]LogEditorTransaction: Undo Move Elements
+[2023.03.06-16.16.22:358][929]Cmd: MODE ROTGRID=0
+[2023.03.06-16.16.24:133][124]Cmd: MODE ROTGRID=1
+[2023.03.06-16.17.07:766][266]Cmd: TRANSACTION UNDO
+[2023.03.06-16.17.07:766][266]LogEditorTransaction: Undo Set Scale
+[2023.03.06-16.17.29:173][607]Cmd: MODE ROTGRID=0
+[2023.03.06-16.18.08:595][161]LogViewport: Scene viewport resized to 1080x580, mode Windowed.
+[2023.03.06-16.18.20:153][382]LogStaticMesh: Display: Building static mesh Boolean_3FFB18BE...
+[2023.03.06-16.18.20:153][382]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/olive/Boolean_3FFB18BE.Boolean_3FFB18BE
+[2023.03.06-16.18.27:436][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OlliesLevel" FILE="../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Content/OlliesLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.06-16.18.27:444][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.03.06-16.18.27:447][218]LogSavePackage: Moving output files for package: /Game/OlliesLevel
+[2023.03.06-16.18.27:448][218]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Saved/OlliesLevel27D017CB4C907F4350BA4294D4380034.tmp' to '../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Content/OlliesLevel.umap'
+[2023.03.06-16.18.27:460][218]AssetCheck: New page: Asset Save: OlliesLevel
+[2023.03.06-16.18.27:460][218]LogContentValidation: Display: Validating World /Game/OlliesLevel.OlliesLevel
+[2023.03.06-16.19.11:310][429]Cmd: TRANSACTION UNDO
+[2023.03.06-16.19.11:310][429]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.06-16.19.27:001][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OlliesLevel" FILE="../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Content/OlliesLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.06-16.19.27:008][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.03.06-16.19.27:011][179]LogSavePackage: Moving output files for package: /Game/OlliesLevel
+[2023.03.06-16.19.27:011][179]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Saved/OlliesLevel8B97E56849775BF57DB85EABCA845EB8.tmp' to '../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Content/OlliesLevel.umap'
+[2023.03.06-16.19.27:023][179]AssetCheck: New page: Asset Save: OlliesLevel
+[2023.03.06-16.19.27:023][179]LogContentValidation: Display: Validating World /Game/OlliesLevel.OlliesLevel
+[2023.03.06-16.19.43:464][112]Cmd: TRANSACTION UNDO
+[2023.03.06-16.19.43:464][112]LogEditorTransaction: Undo Rotate Elements
+[2023.03.06-16.19.52:763][103]Cmd: TRANSACTION UNDO
+[2023.03.06-16.19.52:763][103]LogEditorTransaction: Undo Rotate Elements
+[2023.03.06-16.20.13:169][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OlliesLevel" FILE="../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Content/OlliesLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.06-16.20.13:173][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.14ms
+[2023.03.06-16.20.13:177][413]LogSavePackage: Moving output files for package: /Game/OlliesLevel
+[2023.03.06-16.20.13:177][413]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Saved/OlliesLevel38FAC2074CB38C46B7B1608B06345417.tmp' to '../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Content/OlliesLevel.umap'
+[2023.03.06-16.20.13:199][413]AssetCheck: New page: Asset Save: OlliesLevel
+[2023.03.06-16.20.13:199][413]LogContentValidation: Display: Validating World /Game/OlliesLevel.OlliesLevel
+[2023.03.06-16.30.13:042][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.03.06-16.30.13:042][146]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/OlliesLevel' took 0.006
+[2023.03.06-16.30.13:043][146]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/olive/Stairs_4A396759] ([1] browsable assets)...
+[2023.03.06-16.30.13:060][146]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/olive/Stairs_4A396759.Stairs_4A396759]
+[2023.03.06-16.30.13:060][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/olive/Stairs_4A396759]
+[2023.03.06-16.30.13:061][146]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/olive/Stairs_4A396759_Auto3
+[2023.03.06-16.30.13:061][146]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Saved/Stairs_4A396759_Auto3CB85BCB2489CA9D3BF0B429777D4C27F.tmp' to '../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Saved/Autosaves/Game/_GENERATED/olive/Stairs_4A396759_Auto3.uasset'
+[2023.03.06-16.30.13:062][146]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/olive/Merge_DAA53F84] ([1] browsable assets)...
+[2023.03.06-16.30.13:068][146]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/olive/Merge_DAA53F84.Merge_DAA53F84]
+[2023.03.06-16.30.13:068][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/olive/Merge_DAA53F84]
+[2023.03.06-16.30.13:070][146]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/olive/Merge_DAA53F84_Auto3
+[2023.03.06-16.30.13:070][146]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Saved/Merge_DAA53F84_Auto39C68C312438822105CC45C86398FDC5E.tmp' to '../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Saved/Autosaves/Game/_GENERATED/olive/Merge_DAA53F84_Auto3.uasset'
+[2023.03.06-16.30.13:070][146]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/olive/Box_9CB7C9A2] ([1] browsable assets)...
+[2023.03.06-16.30.13:077][146]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/olive/Box_9CB7C9A2.Box_9CB7C9A2]
+[2023.03.06-16.30.13:077][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/olive/Box_9CB7C9A2]
+[2023.03.06-16.30.13:079][146]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/olive/Box_9CB7C9A2_Auto3
+[2023.03.06-16.30.13:079][146]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Saved/Box_9CB7C9A2_Auto353275636485E1433F594D9A1EC6FB9D0.tmp' to '../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Saved/Autosaves/Game/_GENERATED/olive/Box_9CB7C9A2_Auto3.uasset'
+[2023.03.06-16.30.13:079][146]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/olive/Boolean_BFBCA6DA] ([1] browsable assets)...
+[2023.03.06-16.30.13:085][146]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/olive/Boolean_BFBCA6DA.Boolean_BFBCA6DA]
+[2023.03.06-16.30.13:085][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/olive/Boolean_BFBCA6DA]
+[2023.03.06-16.30.13:087][146]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/olive/Boolean_BFBCA6DA_Auto3
+[2023.03.06-16.30.13:087][146]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Saved/Boolean_BFBCA6DA_Auto391ABC97B41D40A70F4FF00B31BE47182.tmp' to '../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Saved/Autosaves/Game/_GENERATED/olive/Boolean_BFBCA6DA_Auto3.uasset'
+[2023.03.06-16.30.13:087][146]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/olive/Boolean_3FFB18BE] ([1] browsable assets)...
+[2023.03.06-16.30.13:094][146]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/olive/Boolean_3FFB18BE.Boolean_3FFB18BE]
+[2023.03.06-16.30.13:094][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/olive/Boolean_3FFB18BE]
+[2023.03.06-16.30.13:096][146]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/olive/Boolean_3FFB18BE_Auto3
+[2023.03.06-16.30.13:096][146]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Saved/Boolean_3FFB18BE_Auto3B116B85447951219EF40BCA7E920CE73.tmp' to '../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Saved/Autosaves/Game/_GENERATED/olive/Boolean_3FFB18BE_Auto3.uasset'
+[2023.03.06-16.30.13:096][146]LogFileHelpers: Auto-saving content packages took 0.054
+[2023.03.06-17.12.16:348][606]LogDerivedDataCache: C:/Users/olive/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.067 and deleted 0 file(s) with total size 0 MiB.
+[2023.03.06-17.23.50:039][290]LogStaticMesh: Display: Building static mesh Cylinder_86DC193F...
+[2023.03.06-17.23.50:039][290]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/olive/Cylinder_86DC193F.Cylinder_86DC193F
+[2023.03.06-17.24.07:565][346]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.06-17.24.26:583][594]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.06-17.25.17:265][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OlliesLevel" FILE="../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Content/OlliesLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.06-17.25.17:270][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.03.06-17.25.17:274][579]LogSavePackage: Moving output files for package: /Game/OlliesLevel
+[2023.03.06-17.25.17:274][579]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Saved/OlliesLevelE4D4066040D2D5224B7590A18E5D41CC.tmp' to '../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Content/OlliesLevel.umap'
+[2023.03.06-17.25.17:286][579]AssetCheck: New page: Asset Save: OlliesLevel
+[2023.03.06-17.25.17:286][579]LogContentValidation: Display: Validating World /Game/OlliesLevel.OlliesLevel
+[2023.03.06-17.34.19:740][608]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.06-17.34.25:397][275]Cmd: TRANSACTION UNDO
+[2023.03.06-17.34.25:397][275]LogEditorTransaction: Undo Move Elements
+[2023.03.06-17.34.38:430][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OlliesLevel" FILE="../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Content/OlliesLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.06-17.34.38:434][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.03.06-17.34.38:438][707]LogSavePackage: Moving output files for package: /Game/OlliesLevel
+[2023.03.06-17.34.38:438][707]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Saved/OlliesLevelE4ACAA9147E88FE437836B9DB1BAD8D1.tmp' to '../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Content/OlliesLevel.umap'
+[2023.03.06-17.34.38:460][707]AssetCheck: New page: Asset Save: OlliesLevel
+[2023.03.06-17.34.38:460][707]LogContentValidation: Display: Validating World /Game/OlliesLevel.OlliesLevel
+[2023.03.06-17.34.41:567][ 77]Cmd: DELETE
+[2023.03.06-17.34.41:567][ 77]Cmd: ACTOR DELETE
+[2023.03.06-17.34.41:568][ 77]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.06-17.34.41:574][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.03.06-17.34.41:575][ 77]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2023.03.06-17.35.19:911][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OlliesLevel" FILE="../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Content/OlliesLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.06-17.35.19:916][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.14ms
+[2023.03.06-17.35.19:920][636]LogSavePackage: Moving output files for package: /Game/OlliesLevel
+[2023.03.06-17.35.19:920][636]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Saved/OlliesLevel2A7F4A964278518E2AD46D8C72CCA9D2.tmp' to '../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Content/OlliesLevel.umap'
+[2023.03.06-17.35.19:940][636]AssetCheck: New page: Asset Save: OlliesLevel
+[2023.03.06-17.35.19:940][636]LogContentValidation: Display: Validating World /Game/OlliesLevel.OlliesLevel
+[2023.03.06-17.35.29:630][489]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.03.06-17.35.29:630][489]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.03.06-17.35.36:887][320]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.06-17.36.15:007][816]Cmd: DUPLICATE
+[2023.03.06-17.36.15:007][816]Cmd: ACTOR DUPLICATE
+[2023.03.06-17.36.18:248][196]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.06-17.37.35:492][398]Cmd: DUPLICATE
+[2023.03.06-17.37.35:492][398]Cmd: ACTOR DUPLICATE
+[2023.03.06-17.37.39:776][900]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.06-17.38.14:616][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OlliesLevel" FILE="../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Content/OlliesLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.06-17.38.14:621][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.03.06-17.38.14:625][988]LogSavePackage: Moving output files for package: /Game/OlliesLevel
+[2023.03.06-17.38.14:625][988]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Saved/OlliesLevel0E32E2204C043F5F320606AA1C3F7AA8.tmp' to '../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Content/OlliesLevel.umap'
+[2023.03.06-17.38.14:637][988]AssetCheck: New page: Asset Save: OlliesLevel
+[2023.03.06-17.38.14:637][988]LogContentValidation: Display: Validating World /Game/OlliesLevel.OlliesLevel
+[2023.03.06-17.39.33:844][ 36]LogStaticMesh: Display: Building static mesh Cylinder_981E1079...
+[2023.03.06-17.39.33:844][ 36]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/olive/Cylinder_981E1079.Cylinder_981E1079
+[2023.03.06-17.39.42:055][960]LogStaticMesh: Display: Building static mesh Cylinder_B416F107...
+[2023.03.06-17.39.42:055][960]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/olive/Cylinder_B416F107.Cylinder_B416F107
+[2023.03.06-17.39.46:873][512]LogStaticMesh: Display: Building static mesh Cylinder_95B0A5D4...
+[2023.03.06-17.39.46:873][512]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/olive/Cylinder_95B0A5D4.Cylinder_95B0A5D4
+[2023.03.06-17.39.55:677][502]LogStaticMesh: Display: Building static mesh Cylinder_CB32F02B...
+[2023.03.06-17.39.55:677][502]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/olive/Cylinder_CB32F02B.Cylinder_CB32F02B
+[2023.03.06-17.40.11:778][341]LogStaticMesh: Display: Building static mesh Cylinder_E683CEE0...
+[2023.03.06-17.40.11:778][341]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/olive/Cylinder_E683CEE0.Cylinder_E683CEE0
+[2023.03.06-17.40.14:907][690]LogStaticMesh: Display: Building static mesh Cylinder_B65533FA...
+[2023.03.06-17.40.14:907][690]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/olive/Cylinder_B65533FA.Cylinder_B65533FA
+[2023.03.06-17.40.39:309][446]Cmd: TRANSACTION UNDO
+[2023.03.06-17.40.39:309][446]LogEditorTransaction: Undo Activate Tool
+[2023.03.06-17.40.50:897][687]Cmd: TRANSACTION UNDO
+[2023.03.06-17.40.50:897][687]LogEditorTransaction: Undo Rotate Elements
+[2023.03.06-17.40.53:234][868]Cmd: MODE ROTGRID=1
+[2023.03.06-17.41.29:928][ 52]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.06-17.41.55:239][ 29]Cmd: TRANSACTION UNDO
+[2023.03.06-17.41.55:239][ 29]LogEditorTransaction: Undo Rotate Elements
+[2023.03.06-17.41.57:060][161]Cmd: MODE ROTGRID=0
+[2023.03.06-17.42.04:868][ 20]Cmd: MODE GRID=0
+[2023.03.06-17.43.11:424][880]Cmd: MODE ROTGRID=1
+[2023.03.06-17.43.39:726][161]Cmd: MODE ROTGRID=0
+[2023.03.06-17.44.17:333][573]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.06-17.44.32:713][368]Cmd: MODE ROTGRID=1
+[2023.03.06-17.44.40:940][334]Cmd: TRANSACTION UNDO
+[2023.03.06-17.44.40:940][334]LogEditorTransaction: Undo Rotate Elements
+[2023.03.06-17.48.08:459][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OlliesLevel" FILE="../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Content/OlliesLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.06-17.48.08:465][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.03.06-17.48.08:469][157]LogSavePackage: Moving output files for package: /Game/OlliesLevel
+[2023.03.06-17.48.08:469][157]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Saved/OlliesLevel01BB1C764DFFE15332786082E2E46CB2.tmp' to '../../../../../../Users/olive/Documents/GitHub/CODLevel/CODLevel/Content/OlliesLevel.umap'
+[2023.03.06-17.48.08:484][157]AssetCheck: New page: Asset Save: OlliesLevel
+[2023.03.06-17.48.08:484][157]LogContentValidation: Display: Validating World /Game/OlliesLevel.OlliesLevel
